@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/percobaan-1-uploadImage/static/css/main.f96f07a4.css",
+    "main.js": "/percobaan-1-uploadImage/static/js/main.8e690df4.js",
+    "static/js/787.abb50bc8.chunk.js": "/percobaan-1-uploadImage/static/js/787.abb50bc8.chunk.js",
+    "index.html": "/percobaan-1-uploadImage/index.html",
+    "main.f96f07a4.css.map": "/percobaan-1-uploadImage/static/css/main.f96f07a4.css.map",
+    "main.8e690df4.js.map": "/percobaan-1-uploadImage/static/js/main.8e690df4.js.map",
+    "787.abb50bc8.chunk.js.map": "/percobaan-1-uploadImage/static/js/787.abb50bc8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96f07a4.css",
+    "static/js/main.8e690df4.js"
+  ]
+}
